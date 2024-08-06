@@ -1,0 +1,3 @@
+USE Database1;
+CREATE SCHEMA Sales;
+CREATE SCHEMA Inventory;

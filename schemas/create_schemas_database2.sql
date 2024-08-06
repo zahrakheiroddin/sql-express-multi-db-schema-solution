@@ -1,0 +1,3 @@
+USE Database2;
+CREATE SCHEMA HR;
+CREATE SCHEMA Finance;
